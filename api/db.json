@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Hello There",
+      "description": "General Kenobi!",
+      "id": 2
+    },
+    {
+      "title": "New Edit",
+      "description": "Added Patch requests",
+      "userId": "104853791242751289253",
+      "id": 4
+    },
+    {
+      "title": "Delete this",
+      "description": "Delete this one",
+      "userId": "104853791242751289253",
+      "id": 5
+    },
+    {
+      "title": "hi",
+      "description": "hello",
+      "userId": "104853791242751289253",
+      "id": 6
+    }
+  ]
+}
